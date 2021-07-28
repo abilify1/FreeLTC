@@ -1,7 +1,7 @@
 # FreeLTC
 Free 0.001195 LTC
 # Install
-```bash
+```php
 pip install cbpro
 pip install requests
 python main.py
